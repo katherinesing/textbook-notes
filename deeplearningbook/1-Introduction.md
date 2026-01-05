@@ -8,3 +8,5 @@
 8. Simple machine learning algorithm and example use cases: logistic regression, to recommend cesarean section delivery; naive Bayes, to identify spam from legitimate email.
 9. Performance of simple ML algos depends heavily on the representation of the input data. If the data is structured and indexed intelligently. Designing the right set of features to extract, then providing the features to a simple ML algorithm.
 10. How to get the right representation of data? ML can do that too. "Representation learning" discovers the data representation, and also maps the representation to the output. This enables AI systems to adapt to new tasks.
+11. Example of represntation learning algorithm is an autoencoder, comprised of an encoder function then a decoder function. Preserve as much info as possible but also make the final representation have various nice properties.
+12. "Factors of variation" refer to underlying, often hidden causes that explain different patterns or changes within data, like pose, lighting, or expression in images, or speaker's age or accent in a voice, which models aim to learn or become invariant to.

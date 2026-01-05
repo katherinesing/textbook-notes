@@ -2,7 +2,7 @@
 2. Problems hard to describe but intuitive and automatic for humans, such as recognizing spoken words or faces in images, are hard for computers.
 3. This book is about deep learning, the solution for computers to such intuitive problems.
 4. Deep learning is how computers learn from experience and an heirachy of concepts, with each concept defined by its relation to simpler concepts.
-5. Picture a graph with layers showing concepts related to each next concept. The graph many layers deep, hence the term "deep learning".
+5. Picture a graph with layers showing concepts related to each next concept. The graph is many layers deep, hence the term "deep learning".
 6. Knowledge base approach to artiﬁcial intelligence - Several artiﬁcial intelligence projects, such as Cyc (Lenat andG uha, 1989) have attempted without major success to hard-code knowledge about the world so that a computer can reason using logical inference rules. 
 7. Machine learning - From the difficulties of the knowledge base approach, it was concluded that AI systems should be able to acquire knowledge by extracting patterns from raw data, aka "machine learning".
 8. Simple machine learning algorithm and example use cases: logistic regression, to recommend cesarean section delivery; naive Bayes, to identify spam from legitimate email.
